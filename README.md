@@ -22,7 +22,7 @@ I am **Pau Florencia**, a software developer passionate about **Programming** an
 ![Visitor Counter](https://komarev.com/ghpvc/?username=Lollyfluri&label=Profile%20Views)
 
 ## 📫 How to contact me?
-- **LinkedIn**: [linkedin.com/in/yourusername](https://www.linkedin.com/in/pau-florencia-799a05203/)
+- **LinkedIn**: [Pau Florencia](https://www.linkedin.com/in/pau-florencia-799a05203/)
 
 ---
 
