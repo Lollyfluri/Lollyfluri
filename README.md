@@ -4,7 +4,7 @@ I am **Pau Florencia**, a software developer passionate about **Programming** an
 
 ## 🛠 Technologies I work with:
 
-- **Frontend**: React, HTML5, CSS3, Js
+- **Frontend**: React(Learning), HTML5, CSS3, Js
 - **Backend**: Node.js, Python, Bash, Java, C#, Js
 - **Databases**: MySQL, MongoDB(Learning)
 - **DevOps**: Docker (Learning)
